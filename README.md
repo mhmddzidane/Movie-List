@@ -1,5 +1,7 @@
 # Movie-List
 
+**Submission Belajar Fundamental Frontend Web Dicoding**
+
 Web Daftar Film dari API TheMovieDB : https://www.themoviedb.org/documentation/api
 
 Lakukan hal dibawah ini:
